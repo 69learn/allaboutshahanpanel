@@ -26,6 +26,20 @@ bash <(curl -Ls https://raw.githubusercontent.com/HamedAp/Ssh-User-management/ma
 ````
 
 # نحوه استفاده از ipv6  روی نپسترنت
+<p align="center">
+    <a href="https://youtu.be/emQSNXc1kpA">
+        <img
+            style=
+                "display: block;
+                margin-left: auto;
+                margin-right: auto;
+                width: 70%;"
+            src="./src/youtube0012.jpg"
+            alt="BBR vs Cubic vs Hybla vs PCC">
+        </img>
+    </a>
+</p>
+
 
 ✅ توضیحات فعال سازی و اتصال از طریق #ipv6 برای سیمکارت های ایرانسل
 
